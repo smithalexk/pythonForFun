@@ -3,4 +3,4 @@ Fun Projects, such as those in the JetBrains Academy, and friends' school projec
 
 ## Currently Contains:
 * JetBrains Academy
-** Tic Tac Toe
+  * Tic Tac Toe
